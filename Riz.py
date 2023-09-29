@@ -1,5 +1,4 @@
 import datetime
-
 import pyttsx3
 import requests
 import speech_recognition
