@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Ronnix...
 - 📫 Connect with me on my instagram @ronni_srrx
+- 👉 Core to my codes ..👈😈
+- 👉 Pyhton's my first mate - Loyal to Frontend..👾👾
